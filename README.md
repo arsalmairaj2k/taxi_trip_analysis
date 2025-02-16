@@ -2,6 +2,8 @@ Name: Arsal Mairaj
 
 Roll No.: 21i-1520
 
+This was my first time using GitHub professionally and performing my tasks on it, any discripencies will be dealt with in my journey ahead.
+
 # 🚀 Machine Learning Model Optimization: A Complete Pipeline
 
 ## 📌 Overview
@@ -15,9 +17,9 @@ This project explores a complete machine learning pipeline, from **data preproce
 - **Final Selection:** Choosing the best model based on performance metrics.
 
 ## 📁 Project Structure
-- `data/` → Dataset files.
-- `notebooks/` → Jupyter Notebooks for EDA, training, and evaluation.
-- `README.md` → Project overview and setup instructions.
+- Dataset file.
+- Jupyter Notebooks for EDA, training, and evaluation.
+- Reports related to tasks in pdf files.
 
 ## 🎯 Results
 The **Decision Tree Regressor** emerged as the best model after fine-tuning, achieving:
