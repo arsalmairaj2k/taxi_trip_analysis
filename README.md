@@ -17,7 +17,6 @@ This project explores a complete machine learning pipeline, from **data preproce
 ## 📁 Project Structure
 - `data/` → Dataset files.
 - `notebooks/` → Jupyter Notebooks for EDA, training, and evaluation.
-- `src/` → Code for preprocessing, training, and evaluation.
 - `README.md` → Project overview and setup instructions.
 
 ## 🎯 Results
@@ -25,8 +24,6 @@ The **Decision Tree Regressor** emerged as the best model after fine-tuning, ach
 - **MAE:** 0.0547
 - **RMSE:** 1.9512
 - **R² Score:** 0.9778
-
-For a detailed report, check [this document](./Data_Preprocessing_Report.md). 🚀
 
 ## 🔧 Installation & Usage
 1. Clone the repository:  
